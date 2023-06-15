@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}
+body{
+    background-color: cyan;
+}
+
+pre{
+    color: blue;
+}
+
+#ouput{
+    color: orangered;
+}
